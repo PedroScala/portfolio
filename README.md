@@ -15,8 +15,10 @@ Constantly on the lookout for opportunities to refine my skills, I am committed 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).
   
-  ![Project Image 1](credit_grant.jpg)
-- [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
+  <img src="credit_grant.jpg" alt="Project Image 1" width="200"/>
+  
+- [Project Notebook Link](https://project1-notebook-link.com)
+
 
 ### Project 2: [Project Name 2]
 
