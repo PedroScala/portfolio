@@ -1,6 +1,4 @@
-<span style="color: black;">Pedro Scala</span>
-
-![Profile Pic](/profile_pic.jpg)
+# <span style="color: black;">Pedro Scala</span>
 
 ## About Me
 
