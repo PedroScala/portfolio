@@ -1,5 +1,5 @@
-#title: "<span style='color: black;'>Pedro Scala</span>"
+title: "<span style='color: black;'>Pedro Scala</span>"
 logo: /profile_pic.jpg
 description: Data Analyst
-#show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
