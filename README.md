@@ -53,11 +53,14 @@ Constantly on the lookout for opportunities to refine my skills, I am committed 
 
 ## Skills
 
-- Data Analysis
-- Statistical Modeling
-- Data Visualization (e.g., Tableau, Matplotlib)
-- Programming (e.g., Python, R)
+- Python
 - SQL
+- Power BI
+- Spark
+- R
+- Statistical Modeling
+- Data Visualization (Matplotlib, Searborn)
+
 
 ## Contact Information
 
