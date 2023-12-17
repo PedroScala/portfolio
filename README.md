@@ -14,35 +14,35 @@ Constantly on the lookout for opportunities to refine my skills, I am committed 
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).
-- ![Project Image 1](cgp.jpg)
+ ![Project Image 1](cgp.jpg)
 - [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
 
 ### Project 2: [Project Name 2]
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., R, Data Cleaning, Machine Learning).
-- ![Project Image 2](cgp.jpg)
+ ![Project Image 2](cgp.jpg)
 - [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
 
 ### Project 3: [Project Name 3]
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Excel, Statistical Analysis).
-- ![Project Image 3](cgp.jpg)
+ ![Project Image 3](cgp.jpg)
 - [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
 
 ### Project 4: [Project Name 4]
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Pandas, Data Visualization).
-- ![Project Image 4](cgp.jpg)
+ ![Project Image 4](cgp.jpg)
 - [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
 
 ### Project 5: [Project Name 5]
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Tableau, Predictive Modeling).
-- ![Project Image 5](cgp.jpg)
+ ![Project Image 5](cgp.jpg)
 - [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
 
 - ## Professional Experience
