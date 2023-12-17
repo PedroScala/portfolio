@@ -4,7 +4,7 @@ I am a dedicated Data Analyst with a passion for translating information into va
 
 ## Projects
 
-### Project 1: [Credit Granting ML]
+### Project 1: Credit Granting ML
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).
@@ -14,7 +14,7 @@ I am a dedicated Data Analyst with a passion for translating information into va
   [Credit Granting ML Notebook Link](https://pedroscala.github.io/cgc_site/)
 
 
-### Project 2: [Spam Detectition Model]
+### Project 2: Spam Detectition Model
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., R, Data Cleaning, Machine Learning).
