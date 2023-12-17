@@ -15,7 +15,7 @@ Constantly on the lookout for opportunities to refine my skills, I am committed 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).
   
-  <img src="credit_grant.jpg" alt="Project Image 1" width="200"/>
+  <img src="credit_grant.jpg" alt="Project Image 1" width="300"/>
   
 - [Project Notebook Link](https://project1-notebook-link.com)
 
