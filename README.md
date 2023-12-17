@@ -16,7 +16,6 @@ Constantly on the lookout for opportunities to refine my skills, I am committed 
 - **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).
   
   <img src="credit_grant.jpg" alt="Project Image 1" width="480"/>
-  
 - [Project Notebook Link](https://project1-notebook-link.com)
 
 
