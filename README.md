@@ -15,7 +15,7 @@
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., R, Data Cleaning, Machine Learning).
   
-  <img src="spam_detection.jpg" alt="Project Image 2" width="480"/>
+  <img src="spam_detection.jpg" alt="Project Image 2" width="490"/>
   
 - [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
 
