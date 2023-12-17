@@ -5,7 +5,7 @@
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).
 
-  <img src="credit_grant.jpg" alt="Project Image 1" width="470"/>
+  <img src="credit_grant.jpg" alt="Project Image 1" width="460"/>
   
   [Credit Granting ML Notebook Link](https://pedroscala.github.io/cgc_site/)
 
