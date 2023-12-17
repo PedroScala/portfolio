@@ -22,8 +22,9 @@ Constantly on the lookout for opportunities to refine my skills, I am committed 
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., R, Data Cleaning, Machine Learning).
-
- ![Project Image 2](cgp.jpg)
+  
+  <img src="spam_detection.jpg" alt="Project Image 2" width="480"/>
+  
 - [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
 
 ### Project 3: [Project Name 3]
