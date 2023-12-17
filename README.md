@@ -2,7 +2,11 @@
 
 ## About Me
 
-Hi there! I'm [Your Name], a passionate data analyst with a strong background in analyzing and interpreting complex datasets. I specialize in [mention any specific skills or areas of expertise].
+I am a dedicated Data Analyst with a passion for translating information into valuable insights that drive business success. Holding a degree in Chemical Engineering from FEI and an MBA in Data Science & Analytics from USP/ESALQ, I bring over four years of experience in handling data for companies of diverse scales. My journey into data analysis began as a researcher during scientific initiation, where I recognized the significance of computational methods and scientific methodologies in effective problem-solving.
+
+To further enrich my knowledge and business acumen, I spent a transformative year in Toronto. Currently, I serve as a Financial Data Analyst in the beverage production industry. My curiosity is a driving force, and I actively seek new challenges to exercise and enhance my analytical skills. My interests span across various domains, including Data Analytics, Data Science, Descriptive Statistics, Machine Learning, Visualization and Dashboard Design, SQL, Python, Spark, R, and Power BI.
+
+Constantly on the lookout for opportunities to refine my skills, I am committed to applying my expertise to tackle complex projects and contribute to the success of any team or organization.
 
 ## Projects
 
@@ -10,36 +14,36 @@ Hi there! I'm [Your Name], a passionate data analyst with a strong background in
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).
-- **Results:** Key findings or outcomes.
-- **Image:** ![Project Image 1](path/to/project1_image.jpg)
+- ![Project Image 1](cgp.jpg)
+- **Project Link:** [Link to Project 1](https://project1-link.com)
 
 ### Project 2: [Project Name 2]
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., R, Data Cleaning, Machine Learning).
-- **Results:** Key findings or outcomes.
-- **Image:** ![Project Image 2](path/to/project2_image.jpg)
+- ![Project Image 2](cgp.jpg)
+- **Project Link:** [Link to Project 2](https://project2-link.com)
 
 ### Project 3: [Project Name 3]
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Excel, Statistical Analysis).
-- **Results:** Key findings or outcomes.
-- **Image:** ![Project Image 3](path/to/project3_image.jpg)
+- ![Project Image 3](cgp.jpg)
+- **Project Link:** [Link to Project 3](https://project3-link.com)
 
 ### Project 4: [Project Name 4]
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Pandas, Data Visualization).
-- **Results:** Key findings or outcomes.
-- **Image:** ![Project Image 4](path/to/project4_image.jpg)
+- ![Project Image 4](cgp.jpg)
+- **Project Link:** [Link to Project 4](https://project4-link.com)
 
 ### Project 5: [Project Name 5]
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Tableau, Predictive Modeling).
-- **Results:** Key findings or outcomes.
-- **Image:** ![Project Image 5](path/to/project5_image.jpg)
+- ![Project Image 5](cgp.jpg)
+- **Project Link:** [Link to Project 5](https://project5-link.com)
 
 ## Education
 
@@ -57,6 +61,5 @@ Hi there! I'm [Your Name], a passionate data analyst with a strong background in
 
 ## Contact Information
 
-- **Email:** your.email@example.com
 - **LinkedIn:** [LinkedIn Profile]
 - **GitHub:** [GitHub Profile]
