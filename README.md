@@ -1,11 +1,3 @@
----
-title: "Pedro Scala"
-logo: /profile_pic.jpg
-# description: text below image
-# show_downloads: true
-theme: jekyll-theme-minimal
----
-
 <span style="color: black;">Pedro Scala</span>
 
 ![Profile Pic](/profile_pic.jpg)
