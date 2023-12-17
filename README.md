@@ -1,5 +1,3 @@
-# Portfolio
-
 ## About Me
 
 I am a dedicated Data Analyst with a passion for translating information into valuable insights that drive business success. Holding a degree in Chemical Engineering from FEI and an MBA in Data Science & Analytics from USP/ESALQ, I bring over four years of experience in handling data for companies of diverse scales. My journey into data analysis began as a researcher during scientific initiation, where I recognized the significance of computational methods and scientific methodologies in effective problem-solving.
