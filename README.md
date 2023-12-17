@@ -9,7 +9,7 @@ I am a dedicated Data Analyst with a passion for translating information into va
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).
 
-  <img src="credit_grant.jpg" alt="Project Image 1" width="480"/>
+  <img src="credit_grant.jpg" alt="Project Image 1" width="470"/>
   
   [Credit Granting ML Notebook Link](https://pedroscala.github.io/cgc_site/)
 
