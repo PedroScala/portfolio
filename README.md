@@ -15,7 +15,7 @@ Constantly on the lookout for opportunities to refine my skills, I am committed 
 
   <img src="credit_grant.jpg" alt="Project Image 1" width="480"/>
   
-  [Project Notebook Link](https://project1-notebook-link.com)
+  [Project Notebook Link](https://pedroscala.github.io/cgc_site/)
 
 
 ### Project 2: [Project Name 2]
