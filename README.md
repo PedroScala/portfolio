@@ -2,13 +2,9 @@
 
 I am a dedicated Data Analyst with a passion for translating information into valuable insights that drive business success. Holding a degree in Chemical Engineering from FEI and an MBA in Data Science & Analytics from USP/ESALQ, I bring over four years of experience in handling data for companies of diverse scales. My journey into data analysis began as a researcher during scientific initiation, where I recognized the significance of computational methods and scientific methodologies in effective problem-solving.
 
-To further enrich my knowledge and business acumen, I spent a transformative year in Toronto. Currently, I serve as a Financial Data Analyst in the beverage production industry. My curiosity is a driving force, and I actively seek new challenges to exercise and enhance my analytical skills. My interests span across various domains, including Data Analytics, Data Science, Descriptive Statistics, Machine Learning, Visualization and Dashboard Design, SQL, Python, Spark, R, and Power BI.
-
-Constantly on the lookout for opportunities to refine my skills, I am committed to applying my expertise to tackle complex projects and contribute to the success of any team or organization.
-
 ## Projects
 
-### Project 1: [Project Name 1]
+### Project 1: [Credit Granting ML]
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).
@@ -18,7 +14,7 @@ Constantly on the lookout for opportunities to refine my skills, I am committed 
   [Credit Granting ML Notebook Link](https://pedroscala.github.io/cgc_site/)
 
 
-### Project 2: [Project Name 2]
+### Project 2: [Spam Detectition Model]
 
 - **Description:** Brief description of the project.
 - **Skills Used:** List of skills used (e.g., R, Data Cleaning, Machine Learning).
