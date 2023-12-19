@@ -17,7 +17,7 @@
   
   <img src="spam_detection.jpg" alt="Project Image 2" width="460"/>
   
-- [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
+- [(Spam Detection Notebook Link)](https://pedroscala.github.io/cgc_site/)
 
 ### Project 3: Movie Recomender
 
@@ -34,7 +34,7 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 - **Tools Used:** Excel, SQL and Power BI.
  
 ![Project Image 4](cgp.jpg)
-- [(https://project4-notebook-link.com)]([https://pedroscala.github.io/cgc_site/](https://pedroscala.github.io/Projeto-de-Gerenciamento-de-Vendas-AW/))
+- [(Sales Management Dev. Description)]([https://pedroscala.github.io/cgc_site/](https://pedroscala.github.io/Projeto-de-Gerenciamento-de-Vendas-AW/))
 
 ## Professional Experience
 
