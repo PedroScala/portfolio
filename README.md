@@ -5,7 +5,6 @@
 - **Description:** Discover personalized movie suggestions with our Movie Recommender.
 This intelligent tool analyzes your preferences and viewing history, delivering tailored recommendations to elevate your movie-watching experience.
 - **Skills Used:** Python (Pandas, Seaborn, Sklearn, SVD)
- 
   <img src="movie_recomender.jpg" alt="Project Image 1" width="460"/>
 - [(Movie Recomender Notebook Link)](https://pedroscala.github.io/rec_algo_netflix/)
 
