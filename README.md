@@ -33,7 +33,7 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 - **Description:** Address business and customer needs defined by the Sales Manager.
 - **Tools Used:** Excel, SQL and Power BI.
  
-![Project Image 4](cgp.jpg)
+  <img src="aw_dashboard.jpg" alt="Project Image 1" width="460"/>
 - [(Sales Management Dev. Description)]([https://pedroscala.github.io/cgc_site/](https://pedroscala.github.io/Projeto-de-Gerenciamento-de-Vendas-AW/))
 
 ## Professional Experience
