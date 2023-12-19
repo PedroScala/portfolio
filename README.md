@@ -1,25 +1,6 @@
 # Projects
 
-### Project 1: Credit Granting ML
-
-- **Description:** Leverages Decision Tree algorithm for credit assessment.
-- **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).
-
-  <img src="credit_grant.jpg" alt="Project Image 1" width="460"/>
-  
-  [Credit Granting ML Notebook Link](https://pedroscala.github.io/cgc_site/)
-
-
-### Project 2: Spam Detection Model
-
-- **Description:** Utilizes Naive Bayes algorithm for spam identification.
-- **Skills Used:** List of skills used (e.g., R, Data Cleaning, Machine Learning).
-  
-  <img src="spam_detection.jpg" alt="Project Image 2" width="460"/>
-  
-- [(Spam Detection Notebook Link)](https://pedroscala.github.io/cgc_site/)
-
-### Project 3: Movie Recomender
+### Project 1: Movie Recommender
 
 - **Description:** Discover personalized movie suggestions with our Movie Recommender.
 This intelligent tool analyzes your preferences and viewing history, delivering tailored recommendations to elevate your movie-watching experience.
@@ -28,13 +9,33 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
   <img src="movie_recomender.jpg" alt="Project Image 1" width="460"/>
 - [(Movie Recomender Notebook Link)](https://pedroscala.github.io/rec_algo_netflix/)
 
-### Project 4: Sales Management Dashboard
+
+### Project 2: Credit Granting ML
+
+- **Description:** Leverages Decision Tree algorithm for credit assessment.
+- **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).
+
+  <img src="credit_grant.jpg" alt="Project Image 1" width="460"/>
+  
+  [Credit Granting ML Notebook Link](https://pedroscala.github.io/cgc_site/)
+
+### Project 3: Sales Management Dashboard
 
 - **Description:** Address business and customer needs defined by the Sales Manager.
 - **Tools Used:** Excel, SQL and Power BI.
  
   <img src="aw_dashboard.jpg" alt="Project Image 1" width="460"/>
-- [(Sales Management Dev. Description)](https://pedroscala.github.io/Projeto-de-Gerenciamento-de-Vendas-AW/))
+- [(Sales Management Dev. Description)](https://pedroscala.github.io/aw_sales_management_dashboard/)
+
+### Project 4: Spam Detection Model
+
+- **Description:** Utilizes Naive Bayes algorithm for spam identification.
+- **Skills Used:** List of skills used (e.g., R, Data Cleaning, Machine Learning).
+  
+  <img src="spam_detection.jpg" alt="Project Image 2" width="460"/>
+  
+- [(Spam Detection Notebook Link)](https://pedroscala.github.io/cgc_site/)
+
 
 ## Professional Experience
 
