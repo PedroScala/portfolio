@@ -3,7 +3,7 @@
 ### Project 1: Movie Recommender
 
 - **Description:** Discover personalized movie suggestions with our Movie Recommender.
-This intelligent tool analyzes your preferences and viewing history, delivering tailored recommendations to elevate your movie-watching experience.
+This intelligent tool analyzes your movie ratings, delivering tailored recommendations to elevate your movie-watching experience.
 - **Skills Used:** Python (Pandas, Seaborn, Sklearn, SVD)  
   <img src="movie_recomender.jpg" alt="Project Image 1" width="460"/>
 - [(Movie Recomender Notebook Link)](https://pedroscala.github.io/rec_algo_netflix/)
@@ -12,7 +12,7 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 ### Project 2: Credit Granting ML
 
 - **Description:** Leverages Decision Tree algorithm for credit assessment.
-- **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).  
+- **Skills Used:** Spark, Spark SQL, ML (Random Forest, PCA).  
   <img src="credit_grant.jpg" alt="Project Image 1" width="460"/>
   
   [Credit Granting ML Notebook Link](https://pedroscala.github.io/cgc_site/)
@@ -27,10 +27,10 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 ### Project 4: Spam Detection Model
 
 - **Description:** Utilizes Naive Bayes algorithm for spam identification.
-- **Skills Used:** List of skills used (e.g., R, Data Cleaning, Machine Learning).  
+- **Skills Used:** Python, Spark, ML (Naive Bayes), Tokenizer.  
   <img src="spam_detection.jpg" alt="Project Image 2" width="460"/>
   
-- [(Spam Detection Notebook Link)](https://pedroscala.github.io/cgc_site/)
+- [(SMS Spam Detection Notebook Link)](https://pedroscala.github.io/nb_spam_classifier/)
 
 
 ## Professional Experience
@@ -73,13 +73,12 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 
 ## Skills
 
-- Python
+- Python (pandas, numpy, PySpark, scikit-learn, sktime, pycaret, beautiful soup, selenium, flask)
 - SQL
 - Power BI
 - Spark
+- Databricks
 - R
-- Statistical Modeling
-- Data Visualization (Matplotlib, Searborn)
 
 ## Contact Information
 
