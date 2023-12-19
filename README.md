@@ -26,7 +26,7 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 - **Skills Used:** Python (Pandas, Seaborn, Sklearn, SVD)
  
   <img src="movie_recomender.jpg" alt="Project Image 1" width="460"/>
-- [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
+- [(Movie Recomender Notebook Link)](https://pedroscala.github.io/cgc_site/)
 
 ### Project 4: Sales Management Dashboard
 
