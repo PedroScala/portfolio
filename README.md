@@ -83,5 +83,5 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 
 ## Contact Information
 
-- **LinkedIn:** [LinkedIn Profile]
-- **GitHub:** [GitHub Profile]
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/pedroscala/)
+- **GitHub:** [GitHub Profile](https://github.com/PedroScala)
