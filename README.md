@@ -2,7 +2,7 @@
 
 ### Project 1: Credit Granting ML
 
-- **Description:** Brief description of the project.
+- **Description:** Leverages Decision Tree algorithm for credit assessment.
 - **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).
 
   <img src="credit_grant.jpg" alt="Project Image 1" width="460"/>
@@ -12,36 +12,29 @@
 
 ### Project 2: Spam Detectition Model
 
-- **Description:** Brief description of the project.
+- **Description:** Utilizes Naive Bayes algorithm for spam identification.
 - **Skills Used:** List of skills used (e.g., R, Data Cleaning, Machine Learning).
   
   <img src="spam_detection.jpg" alt="Project Image 2" width="490"/>
   
 - [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
 
-### Project 3: [Project Name 3]
+### Project 3: Movie Recomender
 
-- **Description:** Brief description of the project.
-- **Skills Used:** List of skills used (e.g., Excel, Statistical Analysis).
+- **Description:** Discover personalized movie suggestions with our Movie Recommender.
+This intelligent tool analyzes your preferences and viewing history, delivering tailored recommendations to elevate your movie-watching experience.
+- **Skills Used:** Python (Pandas, Seaborn, Sklearn, SVD)
  
 ![Project Image 3](cgp.jpg)
 - [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
 
-### Project 4: [Project Name 4]
+### Project 4: Sales Management Dashboard
 
-- **Description:** Brief description of the project.
-- **Skills Used:** List of skills used (e.g., Pandas, Data Visualization).
+- **Description:** Address business and customer needs defined by the Sales Manager.
+- **Tools Used:** Excel, SQL and Power BI.
  
 ![Project Image 4](cgp.jpg)
-- [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
-
-### Project 5: [Project Name 5]
-
-- **Description:** Brief description of the project.
-- **Skills Used:** List of skills used (e.g., Tableau, Predictive Modeling).
- 
-![Project Image 5](cgp.jpg)
-- [(https://project1-notebook-link.com)](https://pedroscala.github.io/cgc_site/)
+- [(https://project4-notebook-link.com)]([https://pedroscala.github.io/cgc_site/](https://pedroscala.github.io/Projeto-de-Gerenciamento-de-Vendas-AW/))
 
 ## Professional Experience
 
@@ -66,13 +59,15 @@
 - Applied statistical techniques to optimize operational and financial indicators, contributing to data-driven product development and improved performance.
 
 ## Education
-- **MBA USP/ESALQ: Data Science & Analytics** - *Start:* Nov 2020 - July 2022 <br> 
+- **MBA USP/ESALQ: Data Science & Analytics**
+*Start:* Nov 2020 - July 2022
   *Course Modules:*
     1. Supervised and Unsupervised Machine Learning Models
     2. Trends in Data Science and Analytics
     3. Data Science and Big Data in the Business Environment
 
-- **Industrial Engineering College** - *Duration:* 2012 - 2016<br>
+- **Industrial Engineering College** -
+*Duration:* 2012 - 2016
   *Degree:* Bachelor in Chemical Engineering
 
 ## Skills
