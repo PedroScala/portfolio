@@ -26,7 +26,7 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 - **Skills Used:** Python (Pandas, Seaborn, Sklearn, SVD)
  
   <img src="movie_recomender.jpg" alt="Project Image 1" width="460"/>
-- [(Movie Recomender Notebook Link)](https://pedroscala.github.io/cgc_site/)
+- [(Movie Recomender Notebook Link)](https://pedroscala.github.io/rec_algo_netflix/)
 
 ### Project 4: Sales Management Dashboard
 
@@ -34,7 +34,7 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 - **Tools Used:** Excel, SQL and Power BI.
  
   <img src="aw_dashboard.jpg" alt="Project Image 1" width="460"/>
-- [(Sales Management Dev. Description)]([https://pedroscala.github.io/cgc_site/](https://pedroscala.github.io/Projeto-de-Gerenciamento-de-Vendas-AW/))
+- [(Sales Management Dev. Description)](https://pedroscala.github.io/Projeto-de-Gerenciamento-de-Vendas-AW/))
 
 ## Professional Experience
 
