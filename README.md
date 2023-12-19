@@ -61,8 +61,8 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 
 ## Education
 - **MBA USP/ESALQ: Data Science & Analytics** -  
-  *2020 - 2022
-*Course Modules:*
+  *2020 - 2022  
+Course Modules:
     1. Supervised and Unsupervised Machine Learning Models
     2. Trends in Data Science and Analytics
     3. Data Science and Big Data in the Business Environment
