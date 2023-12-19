@@ -12,8 +12,7 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 ### Project 2: Credit Granting ML
 
 - **Description:** Leverages Decision Tree algorithm for credit assessment.
-- **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).
-
+- **Skills Used:** List of skills used (e.g., Python, SQL, Data Visualization).  
   <img src="credit_grant.jpg" alt="Project Image 1" width="460"/>
   
   [Credit Granting ML Notebook Link](https://pedroscala.github.io/cgc_site/)
@@ -21,16 +20,14 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 ### Project 3: Sales Management Dashboard
 
 - **Description:** Address business and customer needs defined by the Sales Manager.
-- **Tools Used:** Excel, SQL and Power BI.
- 
+- **Tools Used:** Excel, SQL and Power BI.  
   <img src="aw_dashboard.jpg" alt="Project Image 1" width="460"/>
 - [(Sales Management PBI Dashboard)](https://pedroscala.github.io/aw_sales_management_dashboard/)
 
 ### Project 4: Spam Detection Model
 
 - **Description:** Utilizes Naive Bayes algorithm for spam identification.
-- **Skills Used:** List of skills used (e.g., R, Data Cleaning, Machine Learning).
-  
+- **Skills Used:** List of skills used (e.g., R, Data Cleaning, Machine Learning).  
   <img src="spam_detection.jpg" alt="Project Image 2" width="460"/>
   
 - [(Spam Detection Notebook Link)](https://pedroscala.github.io/cgc_site/)
