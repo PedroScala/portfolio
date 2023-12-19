@@ -59,19 +59,19 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 - Applied statistical techniques to optimize operational and financial indicators, contributing to data-driven product development and improved performance.
 
 ## Education
-- **MBA USP/ESALQ: Data Science & Analytics** -
+- **MBA USP/ESALQ: Data Science & Analytics** -  
   *2020 - 2022
 *Course Modules:*
     1. Supervised and Unsupervised Machine Learning Models
     2. Trends in Data Science and Analytics
     3. Data Science and Big Data in the Business Environment
 
-- **ILAC International College** -
-  *2017 - 2018
+- **ILAC International College** -  
+  *2017 - 2018  
   *Diploma:* Service Excellence For Business 
   
-- **Industrial Engineering College** -
-  *2012 - 2016
+- **Industrial Engineering College** -  
+  *2012 - 2016  
   *Degree:* Bachelor in Chemical Engineering
 
 ## Skills
