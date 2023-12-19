@@ -10,7 +10,7 @@
   [Credit Granting ML Notebook Link](https://pedroscala.github.io/cgc_site/)
 
 
-### Project 2: Spam Detectition Model
+### Project 2: Spam Detection Model
 
 - **Description:** Utilizes Naive Bayes algorithm for spam identification.
 - **Skills Used:** List of skills used (e.g., R, Data Cleaning, Machine Learning).
