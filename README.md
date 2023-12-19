@@ -67,11 +67,11 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
     3. Data Science and Big Data in the Business Environment
 
 - **ILAC International College** -
-*2017 - 2018
+- *2017 - 2018
   *Diploma:* Service Excellence For Business 
   
 - **Industrial Engineering College** -
-*2012 - 2016
+- *2012 - 2016
   *Degree:* Bachelor in Chemical Engineering
 
 ## Skills
