@@ -25,7 +25,7 @@ This intelligent tool analyzes your preferences and viewing history, delivering 
 - **Tools Used:** Excel, SQL and Power BI.
  
   <img src="aw_dashboard.jpg" alt="Project Image 1" width="460"/>
-- [(Sales Management Dev. Description)](https://pedroscala.github.io/aw_sales_management_dashboard/)
+- [(Sales Management PBI Dashboard)](https://pedroscala.github.io/aw_sales_management_dashboard/)
 
 ### Project 4: Spam Detection Model
 
